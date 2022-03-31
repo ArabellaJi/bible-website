@@ -1,0 +1,31 @@
+div{
+  font-family:'Courier New';
+  text-align:center;
+}
+
+.page {
+  margin-top: 1vh;
+}
+
+.text {
+  max-width: 400px;
+  margin: auto;
+  margin-top: 25vh;
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  min-height: 10vh;
+  background: rgb(2, 2, 43);
+  color: aliceblue;
+}
+
+.link {
+  display: flex;
+  justify-content: space-around;
+  width: 40%;
+  align-items: center;
+  list-style: none;
+}
